@@ -2,8 +2,7 @@
 
 
 function myFunc() {
-//second branch file    
-
+ //this is the modified function from the third branch
 }
 
 
@@ -12,7 +11,7 @@ function extraFunc() {
 }
 
 function extraFunc2() {
-	//asdasd
+	//this is the extra function from the third branch
 }
 
 ?>
