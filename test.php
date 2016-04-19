@@ -4,7 +4,7 @@
 function myFunc() {
     
     echo "foo";
-    return false;
+    return array('test'=>'This is a test branch');
 
 }
 
