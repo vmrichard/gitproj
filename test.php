@@ -2,8 +2,7 @@
 
 
 function myFunc() {
-//second branch file    
-
+ return "this is the second branch function";
 }
 
 
