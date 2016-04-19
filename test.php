@@ -7,4 +7,8 @@ function myFunc() {
 }
 
 
+function extraFunc() {
+	return false;
+}
+
 ?>
