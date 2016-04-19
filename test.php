@@ -2,9 +2,7 @@
 
 
 function myFunc() {
-    
-    echo "foo";
-    return false;
+//second branch file    
 
 }
 
