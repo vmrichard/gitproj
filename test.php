@@ -11,4 +11,8 @@ function extraFunc() {
 	return false;
 }
 
+function extraFunc2() {
+	//asdasd
+}
+
 ?>
