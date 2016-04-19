@@ -4,7 +4,7 @@
 function myFunc() {
     
     echo "foo";
-    return true;
+    return false;
 
 }
 
