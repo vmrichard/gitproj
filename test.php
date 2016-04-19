@@ -2,8 +2,8 @@
 
 
 function myFunc() {
- //this is the modified function from the third branch
-}
+ //MODIFIED A SECOND TIME!!!
+}}
 
 
 function extraFunc() {
