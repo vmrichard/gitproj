@@ -6,6 +6,11 @@ function myFunc() {
  sdfdf
  // Comment from jack
  //Additional comment from Richard
+ //THIS IS THE NEW BRANCH!
+ 
+ 
+ 
+ //this is the syn test branch
 }
 
 
